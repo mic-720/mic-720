@@ -1,11 +1,11 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi 👋, I'm Satyam Kumar(@Mic-720)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mic-720&label=Profile%20views&color=0e75b6&style=flat" alt="mic-720" /> </p>
 
-<p align="left"> <a href="https://twitter.com/satyamkumar6493" target="_blank"><img src="https://img.shields.io/twitter/follow/satyamkumar6493?logo=twitter&style=for-the-badge" alt="satyamkumar6493" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Structures & Algo.**
 
