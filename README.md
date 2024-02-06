@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
-<h1 align="center">Hi 👋, I'm Satyam Kumar(@Mic-720)</h1>
+<h1 align="center">Hi 👋, I'm Satyam Kumar(@mic-720)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mic-720&label=Profile%20views&color=0e75b6&style=flat" alt="mic-720" /> </p>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Data Structures & Algo.**
-- 👨‍💻 All of my projects are available at [**Mic-360**](https://github.com/Mic-720)
+- 👨‍💻 All of my projects are available at [**mic-360**](https://github.com/mic-720)
 -  💬 Ask me about **Anything which includes tech**
 - How to reach me [**Mail**](mailto:satyamksvc@gmail.com)
 
