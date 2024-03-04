@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mic-720&label=Profile%20views&color=0e75b6&style=flat" alt="mic-720" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satyam+Kumar;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India❤️</h3>
@@ -10,11 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **different projects**
+🔭 I’m currently working on **different projects**
  
- 🌱 I’m currently learning **Data Structures & Algo**
+🌱 I’m currently learning **Data Structures & Algo**
 
 💬  Ask me about Anything which includes **tech**
+
+⚡ **Hackathon** Enthusiast Person 
 
 
  </div>
