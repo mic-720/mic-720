@@ -57,6 +57,12 @@
 </div>
 
 <br/><br/>
+<h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
 
+<hr/>
+<div align="center">
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mic-720" alt="mic-720" /></a> </p>
+</div>
 <br/>
+
