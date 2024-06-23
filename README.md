@@ -10,11 +10,11 @@
 
 <div align="center">
  
-🔭 I’m currently working on **different projects**
+🔭 I’m currently working on **Different Projects**
  
-🌱 I’m currently learning **Data Structures & Algo**
+🌱 I’m currently learning **MERN** Stack
 
-💬  Ask me about Anything which includes **tech**
+💬  Ask me about Anything which includes **Tech**
 
 ⚡ **Hackathon** Enthusiast Person 
 
