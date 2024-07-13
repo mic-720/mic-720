@@ -10,8 +10,6 @@
 
 <div align="center">
  
-🔭 I’m currently working on **Different Projects**
- 
 🌱 I’m currently learning **MERN** Stack
 
 💬  Ask me about Anything which includes **Tech**
@@ -31,6 +29,7 @@
   <a href="https://mic-720.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    
 </div>
 
  <hr/>
@@ -38,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,vscode,github,git,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,tailwind,postman,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,git,bootstrap,javascript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,mysql,mongodb" /><br>
 </div>
 
 <br/>
