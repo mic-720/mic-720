@@ -14,7 +14,7 @@
 
 💬  Ask me about Anything which includes **Tech**
 
-⚡ Dedicated **Hackathon** Enthusiast
+⚡    Passionate about **Hackathons**
 
 
 
