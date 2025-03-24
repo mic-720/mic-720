@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/satyamkumar1018" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://mic-720.github.io" target="_blank">
+  <a href="https://drive.google.com/file/d/1vUddm2YyPNrsyhisTqtbvs7Os05bUoJK/view?usp=drive_link" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     
